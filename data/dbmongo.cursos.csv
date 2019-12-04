@@ -1,0 +1,17 @@
+key,type
+_id,ObjectId
+course,str
+edited_by,Int64
+edited_by,int
+edited_on,datetime
+last_update,datetime
+org,str
+run,str
+schema_version,int
+search_targets,dict
+search_targets,NoneType
+search_targets.wiki_slug,str
+versions,dict
+versions.draft-branch,ObjectId
+versions.library,ObjectId
+versions.published-branch,ObjectId

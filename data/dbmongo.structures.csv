@@ -1,0 +1,11 @@
+key,type
+_id,ObjectId
+blocks,list
+edited_by,Int64
+edited_by,int
+edited_on,datetime
+original_version,ObjectId
+previous_version,NoneType
+previous_version,ObjectId
+root,list
+schema_version,int
